@@ -44,6 +44,10 @@
   <img src="acfbb7ee253f9d543e8feef1ff1e4f17.jpg" height="120">
 </p>
 
+<p align="left">
+  <img src="12183a898b7bcd0921e774d7ba5486e7.jpg" height="90">
+</p>
+
 <p align="center">
   <img src="f1707e5d82a8fc7c84aba2e49c21e6ca.jpg" height="120">
 </p>
