@@ -53,6 +53,10 @@
 </p>
 
 <p align="center">
+  <img src="22d02cb3e4d48ac745ed2c2cae08e55e.jpg" width="220">
+</p>
+
+<p align="center">
   <img src="95b9afa963d3d08930ecac5f9b29db49.gif" height="90">
 </p>
 
