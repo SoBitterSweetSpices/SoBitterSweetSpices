@@ -7,21 +7,26 @@
 
 <p align="center">
   <!-- رص الصور الصغيرة اللي بتبدأ بالرموز دي جنب بعضها -->
-  <img src="0ab737da1d961c5722263fecdfcfd3d2.jpg" height="110">
-  <img src="1cc69196de2897d07cb81aafcde7856c.jpg" height="110">
-  <img src="2e486e058d4e9921f2aec14cbfb49e1e.jpg" height="110">
-  <img src="534a57ea318f06bbcabc66b039408d6d.gif" height="110">
+  
+  <p align="center">
+  <img src="Untitled162.png" width="400" alt="Main Art">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="1cc69196de2897d07cb81aaf5efc0f9c.jpg" height="110">
+  <img src="2e486e058d4e9921f2aec14c22f28d91.gif" height="110">
+  <img src="534a57ea318f06bbcabc66b0ff6ceeb6.jpg" height="110">
+  <img src="546acc974d5b7ee612c61308fac5116a.jpg" height="110">
 </p>
 
 <p align="center">
-  <!-- الصف الثاني من الصور -->
-  <img src="546acc974d5b7ee612c613083db9f7ea.jpg" height="110">
-  <img src="a20337293198f66da6b57a8bf60e1d1d.jpg" height="110">
-  <img src="a94fd9053f6d10d12409ca77bf4e007d.jpg" height="110">
+  <img src="a203372931986f66da6b57a66479db40.jpg" height="110">
+  <img src="a94fd9053f6d10d12409ca77bfce6a41.jpg" height="110">
+  <img src="acfbb7ee253f9d543e8feef1ff1e4f17.jpg" height="110">
 </p>
 
 <p align="center">
-  <!-- الصف الأخير -->
-  <img src="acfbb7ee253f9d543e8feef1ff20a9bf.jpg" height="110">
+  <img src="f1707e5d82a8fc7c84aba2e49c21e6ca.jpg" height="110">
 </p>
-
