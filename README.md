@@ -53,6 +53,10 @@
 </p>
 
 <p align="center">
+  <b><font color="#ffffff" size="5">I'm trying to exist</font></b>
+</p>
+
+<p align="center">
   <img src="22d02cb3e4d48ac745ed2c2cae08e55e.jpg" width="220">
 </p>
 
