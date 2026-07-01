@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Untitled163 (1).png" width="420" alt="Main Art">
+  <img src="Untitled162.png" width="420" alt="Main Art">
 </p>
 
 <p align="center">
@@ -50,10 +50,6 @@
 
 <p align="right">
   <img src="d3d5a2176e76462406b6c49b80c621d1.jpg" height="90">
-</p>
-
-<p align="center">
-  <b><font color="#ffffff" size="5">I'm trying to exist</font></b>
 </p>
 
 <p align="center">
