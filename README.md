@@ -66,6 +66,10 @@
 
 <br>
 
+<p align="left">
+  <img src="2021b705633e3360ef47c95f830f5bcf.jpg" height="140">
+</p>
+
 <p align="right">
   <img src="IMG_20260616_024734.jpg" height="140">
 </p>
