@@ -66,8 +66,8 @@
 
 <br>
 
-<p align="center">
-  <img src="IMG_20260616_024734.jpg" height="90">
+<p align="right">
+  <img src="IMG_20260616_024734.jpg" height="140">
 </p>
 
 <br>
