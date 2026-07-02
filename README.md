@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <b><font color="#ffffff" size="5">I'm trying to exist</font></b>
+  <b><font color="#ffffff" size="5">#ILikeSayingFoenem</font></b>
 </p>
 
 <p align="center">
@@ -61,12 +61,16 @@
 </p>
 
 <p align="center">
+  <img src="95b9afa963d3d08930ecac5f9b29db49.gif" height="90">
+</p>
+
+<br>
+
+<p align="center">
   <img src="IMG_20260616_024734.jpg" height="90">
 </p>
 
-<p align="center">
-  <img src="95b9afa963d3d08930ecac5f9b29db49.gif" height="90">
-</p>
+<br>
 
 <p align="center">
   <img src="f1707e5d82a8fc7c84aba2e49c21e6ca.jpg" height="120">
