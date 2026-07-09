@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  $$\color{red}{\mathit{made\ by\ me}}$$
+  $$\color{#C00000}{\mathit{made\ by\ me}}$$
 </p>
 
 <p align="center">
