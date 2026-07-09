@@ -2,7 +2,9 @@
   <img src="Untitled164.png" width="420" alt="Main Art">
 </p>
 
-<h3 align="center"><font color="red"><i>made by me</i></font></h3>
+<p align="center">
+  $$\color{red}{\mathit{made\ by\ me}}$$
+</p>
 
 <p align="center">
   <img src="5a0f19e56192d5af11740c0687b7362b.jpg" height="80">
