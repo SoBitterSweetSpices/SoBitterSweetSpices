@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <i><font color="#ff0000" size="4">made by me</font></i>
+  <span style="color: #ff0000; font-style: italic; font-size: 18px; font-weight: bold;">made by me</span>
 </p>
 
 <p align="center">
