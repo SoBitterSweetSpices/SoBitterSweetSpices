@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="Untitled162.png" width="420" alt="Main Art">
+  <img src="Untitled164.png" width="420" alt="Main Art">
 </p>
 
 <p align="center">
-  <i><font color="#f5f5dc" size="4">"He probably doesn't hate his nose.. Its just too hard to keep up with it."</font></i>
+  <i><font color="#ff0000" size="4">made by me</font></i>
 </p>
 
 <p align="center">
