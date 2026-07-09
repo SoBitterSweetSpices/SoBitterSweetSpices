@@ -2,9 +2,7 @@
   <img src="Untitled164.png" width="420" alt="Main Art">
 </p>
 
-<p align="center">
-  <span style="color: #ff0000; font-style: italic; font-size: 18px; font-weight: bold;">made by me</span>
-</p>
+<h3 align="center"><font color="red"><i>made by me</i></font></h3>
 
 <p align="center">
   <img src="5a0f19e56192d5af11740c0687b7362b.jpg" height="80">
