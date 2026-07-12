@@ -1,4 +1,4 @@
-<p align="center">
+  <p align="center">
   <img src="Untitled164.png" width="420" alt="Main Art">
 </p>
 
@@ -77,16 +77,13 @@
 <br>
 
 <p align="center">
-  $$\color{#ffffff}{\mathbfit{I\ don't\ care\ about\ who\ you\ may\ be,\ you\ can\ Int\ with\ me\ anytime}}$$
-  $$\color{#ffffff}{\mathbfit{or\ anymoment\ except\ a\ few\ kinds\ of\ people\ -\ -\ -}}$$
+  <b><i><font color="#ffffff" size="4">I don't care about who you may be, you can Int with me anytime or anymoment except a few kinds of people - - -</font></i></b>
 </p>
 
 <br>
 
 <p align="center">
-  $$\color{#ffffff}{\mathbfit{Dni\ :\ if\ you\ make\ inappropriate\ ponies\ like\ the\ one\ includes\ weird\ boobs\ etc,}}$$
-  $$\color{#ffffff}{\mathbfit{also\ dni\ if\ you\ ever\ think\ child\ sexual\ abuse\ jokes\ are\ any\ funny\ (I'll\ end\ up\ reporting\ you)}}$$
-  $$\color{#ffffff}{\mathbfit{dni\ Pghfilms\ followers\ or\ supporters,\ thanks\ for\ reading}}$$
+  <b><i><font color="#ffffff" size="4">Dni : if you make inappropriate ponies like the one includes weird boobs etc, also dni if you ever think child sexual abuse jokes are any funny (I'll end up reporting you) dni Pghfilms followers or supporters, thanks for reading</font></i></b>
 </p>
 
 <br>
