@@ -57,9 +57,8 @@
 
 <br>
 
-<!-- الصورتين والنص الأبيض المائل جنبهم على طول في نفس السطر -->
+<!-- الصورتين فقط بحجم كبير ومسافة بينهم -->
 <p align="left">
-  <img src="Untitled177.png" height="185" valign="middle">
-  <img src="Untitled168.png" height="185" valign="middle">
-  $\color{#FFFFFF}{\mathit{Help,\ the\ earless\ Nichols\ is\ something\ else}}$
+  <img src="Untitled177.png" height="185" style="margin-right: 25px;">
+  <img src="Untitled168.png" height="185">
 </p>
