@@ -57,8 +57,8 @@
 
 <br>
 
-<!-- الصورتين فقط بحجم كبير ومسافة بينهم -->
+<!-- الصورتين كبروا شوية كمان ومسافة شيك بينهم -->
 <p align="left">
-  <img src="Untitled177.png" height="150" style="margin-right: 25px;">
-  <img src="Untitled168.png" height="150">
+  <img src="Untitled177.png" height="185" style="margin-right: 25px;">
+  <img src="Untitled168.png" height="185">
 </p>
