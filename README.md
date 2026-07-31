@@ -50,3 +50,16 @@
     $\color{#FF8C00}{\mathit{I\ make\ digital\ art\ sometimes\ I\ can't\ call\ it\ the\ best}}$
   </span>
 </p>
+
+<!-- خط فاصل جديد تحت النص البرتقالي -->
+<br>
+<hr>
+
+<br>
+
+<!-- الصور الثلاث بحجم أصغر ومترتبين جنب بعض في نفس السطر -->
+<p align="left">
+  <img src="Untitled177.png" height="60" style="margin-right: 10px;">
+  <img src="Untitled165 (1).png" height="60" style="margin-right: 10px;">
+  <img src="Untitled168.png" height="60">
+</p>
