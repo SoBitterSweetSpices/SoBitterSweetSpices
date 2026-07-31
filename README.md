@@ -37,13 +37,14 @@
   $$\color{#FF0000}{\mathit{I\ simply\ don't\ really\ give\ a\ shit}}$$
 </p>
 
-<!-- خط فاصل ومسافة في أخر الصفحة تحت خالص -->
+<!-- خط فاصل ومسافة -->
 <br>
 <hr>
 
 <br>
 
-<!-- الصورة الجديدة مائلة لليسار وحجمها مستطيل -->
+<!-- الصورة المستطيلة والنص البرتقالي على اليسار -->
 <p align="left">
-  <img src="389a7035842f986e2d486db9250ddf49.jpg" width="300" height="150">
+  <img src="389a7035842f986e2d486db9250ddf49.jpg" width="300" height="150" align="left">
+  $$\color{#FF8C00}{\mathit{I\ make\ digital\ art\ sometimes\ I\ can't\ call\ it\ the\ best}}$$
 </p>
