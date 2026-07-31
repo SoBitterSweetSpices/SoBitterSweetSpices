@@ -73,3 +73,8 @@
 <p align="center">
   <img src="Screenshot_20260801_023645.jpg" width="320" height="180">
 </p>
+
+<!-- النص تحت الصورة باللون الـ Cyan والرمادي -->
+<p align="center">
+  $$\color{#00FFFF}{\mathit{Slowly\ }}\color{#808080}{\mathit{losing\ }}\color{#00FFFF}{\mathit{c}}\color{#808080}{\mathit{o}}\color{#00FFFF}{\mathit{l}}\color{#808080}{\mathit{o}}\color{#00FFFF}{\mathit{r}}$$
+</p>
