@@ -15,6 +15,10 @@
   $$\color{#0000FF}{\mathit{really\ like\ tadc\ whatever..}}$$
 </p>
 
+<!-- خط فاصل ومسافة تحت الكلام -->
+<br>
+<hr>
+
 <br>
 
 <!-- الصورتين على اليمين -->
@@ -32,7 +36,3 @@
   $$\color{#FF0000}{\mathit{disabled\ people\ or\ skin\ racism\ I\ block\ freely\ most\ of\ you\ all\ and\ make\ fun\ of\ you,}}$$
   $$\color{#FF0000}{\mathit{I\ simply\ don't\ really\ give\ a\ shit}}$$
 </p>
-
-<!-- خط فاصل ومسافة في أخر الصفحة تحت خالص -->
-<br>
-<hr>
