@@ -74,7 +74,11 @@
   <img src="Screenshot_20260801_023645.jpg" width="320" height="180">
 </p>
 
-<!-- النص تحت الصورة باللون الـ Cyan والرمادي -->
+<!-- النص المزخرف بزينة خفيفة من فوق ومن تحت -->
 <p align="center">
-  $$\color{#00FFFF}{\mathit{Slowly\ }}\color{#808080}{\mathit{losing\ }}\color{#00FFFF}{\mathit{c}}\color{#808080}{\mathit{o}}\color{#00FFFF}{\mathit{l}}\color{#808080}{\mathit{o}}\color{#00FFFF}{\mathit{r}}$$
+  $$\color{#808080}{\text{✧\ ───\ ✦\ ───\ ✧}}$$
+  <br>
+  $$\color{#808080}{\text{𓆩\ ──\ }}\color{#00FFFF}{\text{°✧•.\ }}\color{#808080}{\text{˚✧~ }}\color{#00FFFF}{\mathit{Slowly\ }}\color{#808080}{\mathit{losing\ }}\color{#00FFFF}{\mathit{c}}\color{#808080}{\mathit{o}}\color{#00FFFF}{\mathit{l}}\color{#808080}{\mathit{o}}\color{#00FFFF}{\mathit{r}}\color{#808080}{\text{ ~✧˚}}\color{#00FFFF}{\text{\ .•✧°}}\color{#808080}{\text{\ ──\ 𓆪}}$$
+  <br>
+  $$\color{#808080}{\text{✧\ ───\ ✦\ ───\ ✧}}$$
 </p>
