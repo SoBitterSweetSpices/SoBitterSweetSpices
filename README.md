@@ -57,8 +57,11 @@
 
 <br>
 
-<!-- الصورتين كبروا شوية كمان ومسافة شيك بينهم -->
+<!-- الصورتين والنص الأخضر المائل جنبهم في نفس السطر -->
 <p align="left">
-  <img src="Untitled177.png" height="185" style="margin-right: 25px;">
-  <img src="Untitled168.png" height="185">
+  <img src="Untitled177.png" height="185" style="margin-right: 20px;" valign="middle">
+  <img src="Untitled168.png" height="185" style="margin-right: 20px;" valign="middle">
+  <span style="display:inline-block; vertical-align:middle;">
+    $\color{#00FF00}{\mathit{Help,\ the\ earless\ Nichols\ is\ something\ else}}$
+  </span>
 </p>
