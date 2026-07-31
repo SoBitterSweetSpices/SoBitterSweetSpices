@@ -21,8 +21,20 @@
 
 <br>
 
-<!-- الصورتين على اليمين (الأولى كبيرة والثانية أصغر منها جنبها) -->
-<p align="right">
-  <img src="d9da89054890b4f8bcbb4811178f1379.jpg" height="120">
-  <img src="c09781e5a6c6c20e9e4f4ec15d5dcc90.jpg" height="90">
-</p>
+<!-- الصورتين والنص الأحمر بجانب بعض على اليمين مع مسافة بسيطة تفصل بينهم -->
+<table align="right" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td valign="top" align="right">
+      $$\color{#FF0000}{\mathit{Dni:\ if\ you\ make\ ponies\ include\ boobs\ or\ inappropriate\ looks\ or\ if\ you\ do\ sexual\ jokes}}$$
+      $$\color{#FF0000}{\mathit{thinking\ they're\ funny,\ and\ library\ people\ DO\ not\ touch\ me\ you\ guys\ are\ gross\ (not\ evreyone}}$$
+      $$\color{#FF0000}{\mathit{included\ but\ most\ of\ you\ are,\ specially\ on\ that\ red\ side\ of\ the\ library),\ also\ people\ who}}$$
+      $$\color{#FF0000}{\mathit{make\ child\ sexual\ abuse\ jokes,\ do\ not\ touch,\ same\ goes\ for\ people\ who\ make\ jokes\ about}}$$
+      $$\color{#FF0000}{\mathit{disabled\ people\ or\ skin\ racism\ I\ block\ freely\ most\ of\ you\ all\ and\ make\ fun\ of\ you,}}$$
+      $$\color{#FF0000}{\mathit{I\ simply\ don't\ really\ give\ a\ shit}}$$
+    </td>
+    <td valign="top" align="right">
+      <img src="d9da89054890b4f8bcbb4811178f1379.jpg" height="120">
+      <img src="c09781e5a6c6c20e9e4f4ec15d5dcc90.jpg" height="90">
+    </td>
+  </tr>
+</table>
