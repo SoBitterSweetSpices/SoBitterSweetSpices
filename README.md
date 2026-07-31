@@ -43,8 +43,8 @@
 
 <br>
 
-<!-- الصورة المستطيلة والنص البرتقالي على اليسار -->
+<!-- الصورة المستطيلة والنص البرتقالي المائل جنب بعض على الشمال -->
 <p align="left">
-  <img src="389a7035842f986e2d486db9250ddf49.jpg" width="300" height="150" align="left">
-  $$\color{#FF8C00}{\mathit{I\ make\ digital\ art\ sometimes\ I\ can't\ call\ it\ the\ best}}$$
+  <img src="389a7035842f986e2d486db9250ddf49.jpg" width="300" height="150">
+  $\color{#FF8C00}{\mathit{I\ make\ digital\ art\ sometimes\ I\ can't\ call\ it\ the\ best}}$
 </p>
