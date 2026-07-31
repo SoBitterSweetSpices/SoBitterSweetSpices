@@ -57,9 +57,8 @@
 
 <br>
 
-<!-- الصور الثلاث بحجم أكبر ومسافات تفصل بينهم -->
+<!-- الصورتين فقط بحجم كبير ومسافة بينهم -->
 <p align="left">
   <img src="Untitled177.png" height="150" style="margin-right: 25px;">
-  <img src="Untitled165 (1).png" height="150" style="margin-right: 25px;">
   <img src="Untitled168.png" height="150">
 </p>
