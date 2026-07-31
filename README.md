@@ -43,10 +43,10 @@
 
 <br>
 
-<!-- الصورة المستطيلة أصغر والنص البرتقالي جنبها في نفس السطر على طول -->
+<!-- الصورة المستطيلة والنص البرتقالي بحجمه الأصلي جنبها على طول -->
 <p align="left">
   <img src="389a7035842f986e2d486db9250ddf49.jpg" width="220" valign="middle">
   <span style="display:inline-block; vertical-align:middle;">
-    $\color{#FF8C00}{\small\mathit{I\ make\ digital\ art\ sometimes\ I\ can't\ call\ it\ the\ best}}$
+    $\color{#FF8C00}{\mathit{I\ make\ digital\ art\ sometimes\ I\ can't\ call\ it\ the\ best}}$
   </span>
 </p>
