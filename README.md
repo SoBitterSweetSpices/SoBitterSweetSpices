@@ -51,7 +51,7 @@
   </span>
 </p>
 
-<!-- خط فاصل جديد تحت النص البرتقالي -->
+<!-- خط فاصل تحت النص البرتقالي -->
 <br>
 <hr>
 
@@ -61,4 +61,15 @@
 <p align="left">
   <img src="Untitled177.png" height="185" style="margin-right: 25px;">
   <img src="Untitled168.png" height="185">
+</p>
+
+<!-- خط فاصل جديد تحت الصورتين -->
+<br>
+<hr>
+
+<br>
+
+<!-- الصورة الجديدة مستطيلة ومحاذاة في المنتصف -->
+<p align="center">
+  <img src="Screenshot_20260801_023645.jpg" width="400" height="225">
 </p>
