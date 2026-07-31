@@ -57,9 +57,9 @@
 
 <br>
 
-<!-- الصور الثلاث بحجم أصغر ومترتبين جنب بعض في نفس السطر -->
+<!-- الصور الثلاث جنب بعض مع مسافات واضحة تفصل بينهم -->
 <p align="left">
-  <img src="Untitled177.png" height="60" style="margin-right: 10px;">
-  <img src="Untitled165 (1).png" height="60" style="margin-right: 10px;">
-  <img src="Untitled168.png" height="60">
+  <img src="Untitled177.png" height="100" style="margin-right: 25px;">
+  <img src="Untitled165 (1).png" height="100" style="margin-right: 25px;">
+  <img src="Untitled168.png" height="100">
 </p>
