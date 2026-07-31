@@ -3,12 +3,9 @@
   <img src="2e3ce5e9d71987baa77a3c9e5c0b871c.gif" width="420" height="235" alt="New GIF">
 </p>
 
-<!-- خط فاصل ومسافة بين الـ GIF والكلام -->
-<br>
-<hr>
 <br>
 
-<!-- نص الفاندومز باللون الأزرق الطبيعي الفاقع والمائل تحت الـ GIF -->
+<!-- نص الفاندومز باللون الأزرق الطبيعي الفاقع والمائل -->
 <p align="left">
   $$\color{#0000FF}{\mathit{Fandoms:\ currently\ watching\ House\ MD\ and\ maybe\ a\ dogman\ comic\ books\ lover,}}$$
   $$\color{#0000FF}{\mathit{I\ love\ horror\ games\ by\ all\ types\ especially\ baldi's\ basics,\ slendytubbies,}}$$
@@ -17,3 +14,7 @@
   $$\color{#0000FF}{\mathit{in\ addition\ to\ EVREY\ cartoon\ show,\ OK.\ Ko,\ mao\ mao,\ etc,\ yeah\ btw\ I\ don't}}$$
   $$\color{#0000FF}{\mathit{really\ like\ tadc\ whatever..}}$$
 </p>
+
+<!-- خط فاصل ومسافة تحت الكلام -->
+<br>
+<hr>
