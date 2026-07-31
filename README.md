@@ -15,7 +15,7 @@
   $$\color{#0000FF}{\mathit{really\ like\ tadc\ whatever..}}$$
 </p>
 
-<!-- خط فاصل ومسافة تحت الكلام -->
+<!-- خط فاصل ومسافة تحت النص الأزرق -->
 <br>
 <hr>
 
@@ -35,4 +35,15 @@
   $$\color{#FF0000}{\mathit{make\ child\ sexual\ abuse\ jokes,\ do\ not\ touch,\ same\ goes\ for\ people\ who\ make\ jokes\ about}}$$
   $$\color{#FF0000}{\mathit{disabled\ people\ or\ skin\ racism\ I\ block\ freely\ most\ of\ you\ all\ and\ make\ fun\ of\ you,}}$$
   $$\color{#FF0000}{\mathit{I\ simply\ don't\ really\ give\ a\ shit}}$$
+</p>
+
+<!-- خط فاصل ومسافة في أخر الصفحة تحت خالص -->
+<br>
+<hr>
+
+<br>
+
+<!-- الصورة الجديدة مائلة لليسار وحجمها مستطيل -->
+<p align="left">
+  <img src="389a7035842f986e2d486db9250ddf49.jpg" width="300" height="150">
 </p>
