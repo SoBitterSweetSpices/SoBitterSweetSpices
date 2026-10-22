@@ -62,17 +62,26 @@
   <img src="Untitled168.png" height="185">
 </p>
 
-<!-- خط فاصل أفقي عادي -->
+<!-- خط فاصل بين مجموعة الصور -->
 <br>
 <hr>
 
 <br>
 
-<!-- الصورتين الجداد جنب بعض وبينهم خط فاصل رأسي (عمودي) -->
-<p align="left" style="display: flex; align-items: center;">
+<!-- الصورة الأولى من الجداد -->
+<p align="center">
   <img src="e5be9d80f1ab2fac0b79fc382c0a074e.jpg" height="185">
-  <span style="border-left: 2px solid #555555; height: 160px; margin: 0 20px; display: inline-block;"></span>
-  <img src="Untitled206 (1).png" height="185">
+</p>
+
+<!-- خط فاصل بين الصورة الأولى والثانية -->
+<br>
+<hr>
+
+<br>
+
+<!-- الصورة الثانية من الجداد -->
+<p align="center">
+  <img src="Untitled206.png" height="185">
 </p>
 
 <!-- خط فاصل تحت الصورتين -->
