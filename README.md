@@ -9,7 +9,7 @@
 <p align="left">
   $$\color{#0000FF}{\mathit{Fandoms:\ currently\ watching\ House\ MD\ and\ maybe\ a\ dogman\ comic\ books\ lover,}}$$
   $$\color{#0000FF}{\mathit{I\ love\ horror\ games\ by\ all\ types\ especially\ baldi's\ basics,\ slendytubbies,}}$$
-  $$\color{#0000FF}{\mathit{hello\ neighbor,\ Fnaf,\ Slenderman,\ analog\ horror,\ SCP,\ The\ backrooms,}}$$
+  $$\color{#0000FF}{\mathit{hello\ neighbor,\ and\ Fnaf,\ Slenderman,\ analog\ horror,\ SCP,\ and\ The\ backrooms,}}$$
   $$\color{#0000FF}{\mathit{in\ addition\ to\ EVREY\ cartoon\ show,\ OK.\ Ko,\ mao\ mao,\ etc,\ yeah\ btw\ I\ don't}}$$
   $$\color{#0000FF}{\mathit{really\ like\ tadc\ whatever..}}$$
 </p>
@@ -72,7 +72,7 @@
 <p align="left" style="display: flex; align-items: center;">
   <img src="e5be9d80f1ab2fac0b79fc382c0a074e.jpg" height="185">
   <span style="border-left: 2px solid #555555; height: 160px; margin: 0 20px; display: inline-block;"></span>
-  <img src="Untitled206.png" height="185">
+  <img src="Untitled206 (1).png" height="185">
 </p>
 
 <!-- خط فاصل تحت الصورتين -->
