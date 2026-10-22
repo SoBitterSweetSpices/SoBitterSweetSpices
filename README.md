@@ -9,7 +9,7 @@
 <p align="left">
   $$\color{#0000FF}{\mathit{Fandoms:\ currently\ watching\ House\ MD\ and\ maybe\ a\ dogman\ comic\ books\ lover,}}$$
   $$\color{#0000FF}{\mathit{I\ love\ horror\ games\ by\ all\ types\ especially\ baldi's\ basics,\ slendytubbies,}}$$
-  $$\color{#0000FF}{\mathit{hello\ neighbor,\ and\ Fnaf,\ Slenderman,\ analog\ horror,\ SCP,\ and\ The\ backrooms,}}$$
+  $$\color{#0000FF}{\mathit{hello\ neighbor,\ Fnaf,\ Slenderman,\ analog\ horror,\ SCP,\ The\ backrooms,}}$$
   $$\color{#0000FF}{\mathit{in\ addition\ to\ EVREY\ cartoon\ show,\ OK.\ Ko,\ mao\ mao,\ etc,\ yeah\ btw\ I\ don't}}$$
   $$\color{#0000FF}{\mathit{really\ like\ tadc\ whatever..}}$$
 </p>
@@ -42,7 +42,7 @@
 
 <br>
 
-<!-- الصورة المستطيلة والنص البرتقالي بحجمه الأصلي جنبها على طول -->
+<!-- الصورة المستطيلة والنص البرتقالي جنبها -->
 <p align="left">
   <img src="389a7035842f986e2d486db9250ddf49.jpg" width="220" valign="middle">
   <span style="display:inline-block; vertical-align:middle;">
@@ -50,19 +50,32 @@
   </span>
 </p>
 
-<!-- خط فاصل تحت النص البرتقالي -->
+<!-- خط فاصل تحت نص الـ digital art -->
 <br>
 <hr>
 
 <br>
 
-<!-- الصورتين فقط بحجم كبير ومسافة بينهم -->
+<!-- الصورتين القدام -->
 <p align="left">
   <img src="Untitled185.png" height="185" style="margin-right: 25px;">
   <img src="Untitled168.png" height="185">
 </p>
 
-<!-- خط فاصل جديد تحت الصورتين -->
+<!-- خط فاصل أفقي عادي -->
+<br>
+<hr>
+
+<br>
+
+<!-- الصورتين الجداد جنب بعض وبينهم خط فاصل رأسي (عمودي) -->
+<p align="left" style="display: flex; align-items: center;">
+  <img src="e5be9d80f1ab2fac0b79fc382c0a074e.jpg" height="185">
+  <span style="border-left: 2px solid #555555; height: 160px; margin: 0 20px; display: inline-block;"></span>
+  <img src="Untitled206.png" height="185">
+</p>
+
+<!-- خط فاصل تحت الصورتين -->
 <br>
 <hr>
 
