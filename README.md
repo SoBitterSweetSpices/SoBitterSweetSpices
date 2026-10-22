@@ -9,8 +9,7 @@
 <p align="left">
   $$\color{#0000FF}{\mathit{Fandoms:\ currently\ watching\ House\ MD\ and\ maybe\ a\ dogman\ comic\ books\ lover,}}$$
   $$\color{#0000FF}{\mathit{I\ love\ horror\ games\ by\ all\ types\ especially\ baldi's\ basics,\ slendytubbies,}}$$
-  $$\color{#0000FF}{\mathit{hello\ neighbor,\ and\ tbh\ I\ forgot\ Fnaf\ full\ story\ ngl\ idk\ if\ I'm\ considerd}}$$
-  $$\color{#0000FF}{\mathit{as\ a\ fan,\ Slenderman,\ analog\ horror,\ SCP,\ and\ of\ course\ The\ backrooms,}}$$
+  $$\color{#0000FF}{\mathit{hello\ neighbor,\ and\ Fnaf,\ Slenderman,\ analog\ horror,\ SCP,\ and\ The\ backrooms,}}$$
   $$\color{#0000FF}{\mathit{in\ addition\ to\ EVREY\ cartoon\ show,\ OK.\ Ko,\ mao\ mao,\ etc,\ yeah\ btw\ I\ don't}}$$
   $$\color{#0000FF}{\mathit{really\ like\ tadc\ whatever..}}$$
 </p>
