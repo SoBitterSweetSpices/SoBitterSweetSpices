@@ -53,10 +53,9 @@
 
 <br>
 
-<!-- الصورتين القدام -->
-<p align="left">
-  <img src="Untitled185.png" height="185" style="margin-right: 25px;">
-  <img src="Untitled168.png" height="185">
+<!-- الصورة الجديدة في المنتصف بنفس الحجم -->
+<p align="center">
+  <img src="Untitled185_20261112012303.png" height="240" alt="Centered Image">
 </p>
 
 <!-- خط فاصل أفقي عادي -->
