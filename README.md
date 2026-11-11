@@ -5,13 +5,13 @@
 
 <br>
 
-<!-- نص الفاندومز باللون الأزرق الطبيعي الفاقع والمائل -->
+<!-- نص الفاندومز باللون الأزرق، كَبير وسميك وبنفس الكلام بالضبط -->
 <p align="left">
-  $$\color{#0000FF}{\mathit{Fandoms:\ currently\ watching\ House\ MD\ and\ maybe\ a\ dogman\ comic\ books\ lover,}}$$
-  $$\color{#0000FF}{\mathit{I\ love\ horror\ games\ by\ all\ types\ especially\ baldi's\ basics,\ slendytubbies,}}$$
-  $$\color{#0000FF}{\mathit{hello\ neighbor,\ and\ Fnaf,\ Slenderman,\ analog\ horror,\ SCP,\ and\ The\ backrooms,}}$$
-  $$\color{#0000FF}{\mathit{in\ addition\ to\ EVREY\ cartoon\ show,\ OK.\ Ko,\ mao\ mao,\ etc,\ yeah\ btw\ I\ don't}}$$
-  $$\color{#0000FF}{\mathit{really\ like\ tadc\ whatever..}}$$
+  $$\color{#0000FF}{\large\boldsymbol{\mathit{Fandoms:\ currently\ watching\ House\ MD\ and\ maybe\ a\ dogman\ comic\ books\ lover,}}}$$
+  $$\color{#0000FF}{\large\boldsymbol{\mathit{I\ love\ horror\ games\ by\ all\ types\ especially\ baldi's\ basics,\ slendytubbies,}}}$$
+  $$\color{#0000FF}{\large\boldsymbol{\mathit{hello\ neighbor,\ and\ Fnaf,\ Slenderman,\ analog\ horror,\ SCP,\ and\ The\ backrooms,}}}$$
+  $$\color{#0000FF}{\large\boldsymbol{\mathit{in\ addition\ to\ EVREY\ cartoon\ show,\ OK.\ Ko,\ mao\ mao,\ etc,\ yeah\ btw\ I\ don't}}}$$
+  $$\color{#0000FF}{\large\boldsymbol{\mathit{really\ like\ tadc\ whatever..}}}$$
 </p>
 
 <!-- خط فاصل ومسافة تحت النص الأزرق -->
@@ -26,7 +26,7 @@
   <img src="c09781e5a6c6c20e9e4f4ec15d5dcc90.jpg" height="90">
 </p>
 
-<!-- نص الـ DNI باللون البنفسجي الجديد #5500FF والسميك وبنفس الكلام بالضبط -->
+<!-- نص الـ DNI باللون البنفسجي #5500FF والسميك وبنفس الكلام بالضبط -->
 <p align="right">
   $$\color{#5500FF}{\large\boldsymbol{\mathit{Dni:\ if\ you\ make\ ponies\ include\ boobs\ or\ inappropriate\ looks\ or\ if\ you\ do\ sexual\ jokes}}}$$
   $$\color{#5500FF}{\large\boldsymbol{\mathit{thinking\ they're\ funny,\ and\ library\ people\ DO\ not\ touch\ me\ you\ guys\ are\ gross\ (not\ evreyone}}}$$
