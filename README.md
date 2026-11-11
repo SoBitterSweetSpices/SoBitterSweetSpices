@@ -1,6 +1,6 @@
 <p align="left">
-  <!-- الـ GIF محاذى لليسار بحجم أكبر ومستطيل -->
-  <img src="865279f0b824fb1b7bd495a8b2fdf93d.gif" width="420" height="235" alt="New GIF">
+  <!-- الـ GIF الجديد محاذى لليسار بحجم أكبر ومستطيل -->
+  <img src="bf24a0a13bcee4f5e3cefa31de9debe1.gif" width="420" height="235" alt="New GIF">
 </p>
 
 <br>
@@ -64,7 +64,7 @@
 
 <br>
 
-<!-- الصورتين جنب بعض وبينهم خط فاصل رأسي (عمودي) والصورة الجديدة تحت -->
+<!-- الصورتين جنب بعض وبينهم خط فاصل رأسي (عمودي) -->
 <p align="left" style="display: flex; align-items: center;">
   <img src="e5be9d80f1ab2fac0b79fc382c0a074e.jpg" height="185">
   <span style="border-left: 2px solid #555555; height: 160px; margin: 0 20px; display: inline-block;"></span>
