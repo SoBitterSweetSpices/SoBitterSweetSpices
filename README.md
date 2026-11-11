@@ -5,7 +5,7 @@
 
 <br>
 
-<!-- نص الفاندومز رجع لشكله الأصلي بالطول وبالخط العادي -->
+<!-- نص الفاندومز بالطول وبالخط العادي -->
 <p align="left">
   $$\color{#0000FF}{\mathit{Fandoms:\ currently\ watching\ House\ MD\ and\ maybe\ a\ dogman\ comic\ books\ lover,}}$$
   $$\color{#0000FF}{\mathit{I\ love\ horror\ games\ by\ all\ types\ especially\ baldi's\ basics,\ slendytubbies,}}$$
@@ -20,20 +20,20 @@
 
 <br>
 
-<!-- الصورتين على اليمين -->
+<!-- الصورتين الجداد على اليمين بنفس أحجام القدام -->
 <p align="right">
-  <img src="d9da89054890b4f8bcbb4811178f1379.jpg" height="120">
-  <img src="c09781e5a6c6c20e9e4f4ec15d5dcc90.jpg" height="90">
+  <img src="87a51d0b359f58916642773f73f1b392.jpg" height="120">
+  <img src="6ea716371a421ae29023167d5e294827.jpg" height="90">
 </p>
 
-<!-- نص الـ DNI باللون البنفسجي #5500FF والسميك -->
+<!-- نص الـ DNI بالطول وبنفس حجم وشكل الـ Fandoms باللون البنفسجي #5500FF -->
 <p align="right">
-  $$\color{#5500FF}{\large\boldsymbol{\mathit{Dni:\ if\ you\ make\ ponies\ include\ boobs\ or\ inappropriate\ looks\ or\ if\ you\ do\ sexual\ jokes}}}$$
-  $$\color{#5500FF}{\large\boldsymbol{\mathit{thinking\ they're\ funny,\ and\ library\ people\ DO\ not\ touch\ me\ you\ guys\ are\ gross\ (not\ evreyone}}}$$
-  $$\color{#5500FF}{\large\boldsymbol{\mathit{included\ but\ most\ of\ you\ are,\ specially\ on\ that\ red\ side\ of\ the\ library),\ also\ people\ who}}}$$
-  $$\color{#5500FF}{\large\boldsymbol{\mathit{make\ child\ sexual\ abuse\ jokes,\ do\ not\ touch,\ same\ goes\ for\ people\ who\ make\ jokes\ about}}}$$
-  $$\color{#5500FF}{\large\boldsymbol{\mathit{disabled\ people\ or\ skin\ racism\ I\ block\ freely\ most\ of\ you\ all\ and\ make\ fun\ of\ you,}}}$$
-  $$\color{#5500FF}{\large\boldsymbol{\mathit{I\ simply\ don't\ really\ give\ a\ shit}}}$$
+  $$\color{#5500FF}{\mathit{Dni:\ if\ you\ make\ ponies\ include\ boobs\ or\ inappropriate\ looks\ or\ if\ you\ do\ sexual\ jokes}}$$
+  $$\color{#5500FF}{\mathit{thinking\ they're\ funny,\ and\ library\ people\ DO\ not\ touch\ me\ you\ guys\ are\ gross\ (not\ evreyone}}$$
+  $$\color{#5500FF}{\mathit{included\ but\ most\ of\ you\ are,\ specially\ on\ that\ red\ side\ of\ the\ library),\ also\ people\ who}}$$
+  $$\color{#5500FF}{\mathit{make\ child\ sexual\ abuse\ jokes,\ do\ not\ touch,\ same\ goes\ for\ people\ who\ make\ jokes\ about}}$$
+  $$\color{#5500FF}{\mathit{disabled\ people\ or\ skin\ racism\ I\ block\ freely\ most\ of\ you\ all\ and\ make\ fun\ of\ you,}}$$
+  $$\color{#5500FF}{\mathit{I\ simply\ don't\ really\ give\ a\ shit}}$$
 </p>
 
 <!-- خط فاصل ومسافة -->
