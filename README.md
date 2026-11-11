@@ -42,20 +42,6 @@
 
 <br>
 
-<!-- الصورة المستطيلة والنص البرتقالي جنبها -->
-<p align="left">
-  <img src="389a7035842f986e2d486db9250ddf49.jpg" width="220" valign="middle">
-  <span style="display:inline-block; vertical-align:middle;">
-    $\color{#FF8C00}{\mathit{I\ make\ digital\ art\ sometimes\ I\ can't\ call\ it\ the\ best}}$
-  </span>
-</p>
-
-<!-- خط فاصل تحت نص الـ digital art -->
-<br>
-<hr>
-
-<br>
-
 <!-- الصورتين القدام -->
 <p align="left">
   <img src="Untitled185.png" height="185" style="margin-right: 25px;">
