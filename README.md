@@ -42,6 +42,17 @@
 
 <br>
 
+<!-- الصورة الجديدة الكبيرة جداً لوحدها في السطر -->
+<p align="left">
+  <img src="Untitled233_20261112011228.png" width="550" alt="Very Big Image">
+</p>
+
+<!-- خط فاصل ومسافة -->
+<br>
+<hr>
+
+<br>
+
 <!-- الصورتين القدام -->
 <p align="left">
   <img src="Untitled185.png" height="185" style="margin-right: 25px;">
