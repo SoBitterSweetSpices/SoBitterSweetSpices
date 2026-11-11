@@ -1,5 +1,5 @@
 <p align="left">
-  <!-- الـ GIF الجديد محاذى لليسار بحجم أكبر ومستطيل -->
+  <!-- الـ GIF محاذى لليسار بحجم أكبر ومستطيل -->
   <img src="bf24a0a13bcee4f5e3cefa31de9debe1.gif" width="420" height="235" alt="New GIF">
 </p>
 
@@ -26,14 +26,14 @@
   <img src="c09781e5a6c6c20e9e4f4ec15d5dcc90.jpg" height="90">
 </p>
 
-<!-- النص الأحمر محاذى لليمين وتحت الصورتين بنفس الخط المائل -->
+<!-- نص الـ DNI باللون البنفسجي الجديد #5500FF والسميك وبنفس الكلام بالضبط -->
 <p align="right">
-  $$\color{#FF0000}{\mathit{Dni:\ if\ you\ make\ ponies\ include\ boobs\ or\ inappropriate\ looks\ or\ if\ you\ do\ sexual\ jokes}}$$
-  $$\color{#FF0000}{\mathit{thinking\ they're\ funny,\ and\ library\ people\ DO\ not\ touch\ me\ you\ guys\ are\ gross\ (not\ evreyone}}$$
-  $$\color{#FF0000}{\mathit{included\ but\ most\ of\ you\ are,\ specially\ on\ that\ red\ side\ of\ the\ library),\ also\ people\ who}}$$
-  $$\color{#FF0000}{\mathit{make\ child\ sexual\ abuse\ jokes,\ do\ not\ touch,\ same\ goes\ for\ people\ who\ make\ jokes\ about}}$$
-  $$\color{#FF0000}{\mathit{disabled\ people\ or\ skin\ racism\ I\ block\ freely\ most\ of\ you\ all\ and\ make\ fun\ of\ you,}}$$
-  $$\color{#FF0000}{\mathit{I\ simply\ don't\ really\ give\ a\ shit}}$$
+  $$\color{#5500FF}{\large\boldsymbol{\mathit{Dni:\ if\ you\ make\ ponies\ include\ boobs\ or\ inappropriate\ looks\ or\ if\ you\ do\ sexual\ jokes}}}$$
+  $$\color{#5500FF}{\large\boldsymbol{\mathit{thinking\ they're\ funny,\ and\ library\ people\ DO\ not\ touch\ me\ you\ guys\ are\ gross\ (not\ evreyone}}}$$
+  $$\color{#5500FF}{\large\boldsymbol{\mathit{included\ but\ most\ of\ you\ are,\ specially\ on\ that\ red\ side\ of\ the\ library),\ also\ people\ who}}}$$
+  $$\color{#5500FF}{\large\boldsymbol{\mathit{make\ child\ sexual\ abuse\ jokes,\ do\ not\ touch,\ same\ goes\ for\ people\ who\ make\ jokes\ about}}}$$
+  $$\color{#5500FF}{\large\boldsymbol{\mathit{disabled\ people\ or\ skin\ racism\ I\ block\ freely\ most\ of\ you\ all\ and\ make\ fun\ of\ you,}}}$$
+  $$\color{#5500FF}{\large\boldsymbol{\mathit{I\ simply\ don't\ really\ give\ a\ shit}}}$$
 </p>
 
 <!-- خط فاصل ومسافة -->
