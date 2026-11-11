@@ -53,7 +53,7 @@
 
 <br>
 
-<!-- الصورة الجديدة في المنتصف بنفس الحجم -->
+<!-- الصورة في المنتصف -->
 <p align="center">
   <img src="Untitled185_20261112012303.png" height="240" alt="Centered Image">
 </p>
@@ -64,11 +64,11 @@
 
 <br>
 
-<!-- الصورتين الجداد جنب بعض وبينهم خط فاصل رأسي (عمودي) -->
+<!-- الصورتين جنب بعض وبينهم خط فاصل رأسي (عمودي) والصورة الجديدة تحت -->
 <p align="left" style="display: flex; align-items: center;">
   <img src="e5be9d80f1ab2fac0b79fc382c0a074e.jpg" height="185">
   <span style="border-left: 2px solid #555555; height: 160px; margin: 0 20px; display: inline-block;"></span>
-  <img src="Untitled206 (1).png" height="185">
+  <img src="Untitled241_20261112012548.png" height="185">
 </p>
 
 <!-- خط فاصل تحت الصورتين -->
