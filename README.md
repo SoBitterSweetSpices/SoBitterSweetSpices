@@ -20,13 +20,13 @@
 
 <br>
 
-<!-- الصورتين الجداد على اليمين بنفس أحجام القدام -->
+<!-- الصورتين على اليمين -->
 <p align="right">
   <img src="87a51d0b359f58916642773f73f1b392.jpg" height="120">
   <img src="6ea716371a421ae29023167d5e294827.jpg" height="90">
 </p>
 
-<!-- نص الـ DNI بالطول وبنفس حجم وشكل الـ Fandoms باللون البنفسجي #5500FF -->
+<!-- نص الـ DNI بالطول باللون البنفسجي #5500FF -->
 <p align="right">
   $$\color{#5500FF}{\mathit{Dni:\ if\ you\ make\ ponies\ include\ boobs\ or\ inappropriate\ looks\ or\ if\ you\ do\ sexual\ jokes}}$$
   $$\color{#5500FF}{\mathit{thinking\ they're\ funny,\ and\ library\ people\ DO\ not\ touch\ me\ you\ guys\ are\ gross\ (not\ evreyone}}$$
@@ -77,16 +77,16 @@
 
 <br>
 
-<!-- الصورة الجديدة مستطيلة وبحجم أصغر محاذاة في المنتصف -->
+<!-- الصورة الأخيرة بحجم أصغر ومناسبة وفي المنتصف -->
 <p align="center">
-  <img src="Screenshot_20260801_023645.jpg" width="320" height="180">
+  <img src="IMG_20261112_020653.png" width="280" alt="Last Image">
 </p>
 
-<!-- النص المزخرف بزينة خفيفة من فوق ومن تحت -->
+<!-- النص المزخرف (Slowly Losing Temper) مع الزخرفة اللي فوق باللون الأسود واللي تحت باللون الأبيض -->
 <p align="center">
-  $$\color{#808080}{\text{✧\ ───\ ✦\ ───\ ✧}}$$
+  $$\color{#000000}{\text{✧\ ───\ ✦\ ───\ ✧}}$$
   <br>
-  $$\color{#808080}{\text{𓆩\ ──\ }}\color{#00FFFF}{\text{°✧•.\ }}\color{#808080}{\text{˚✧~ }}\color{#00FFFF}{\mathit{Slowly\ }}\color{#808080}{\mathit{losing\ }}\color{#00FFFF}{\mathit{c}}\color{#808080}{\mathit{o}}\color{#00FFFF}{\mathit{l}}\color{#808080}{\mathit{o}}\color{#00FFFF}{\mathit{r}}\color{#808080}{\text{ ~✧˚}}\color{#00FFFF}{\text{\ .•✧°}}\color{#808080}{\text{\ ──\ 𓆪}}$$
+  $$\color{#808080}{\text{𓆩\ ──\ }}\color{#00FFFF}{\text{°✧•.\ }}\color{#808080}{\text{˚✧~ }}\color{#00FFFF}{\mathit{SLOWLY\ }}\color{#5500FF}{\mathit{LOSING\ }}\color{#00FFFF}{\mathit{TEMPER}}\color{#808080}{\text{ ~✧˚}}\color{#5500FF}{\text{\ .•✧°}}\color{#5500FF}{\text{\ ──\ 𓆪}}$$
   <br>
-  $$\color{#808080}{\text{✧\ ───\ ✦\ ───\ ✧}}$$
+  $$\color{#FFFFFF}{\text{✧\ ───\ ✦\ ───\ ✧}}$$
 </p>
